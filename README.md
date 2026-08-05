@@ -1,1 +1,1 @@
-text browser a command line browser
+sum calc gui sum a list of values to by load or save
